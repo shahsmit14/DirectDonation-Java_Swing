@@ -1,0 +1,7 @@
+Transaction ID, Amount, Sender, Sender Organization, Receiver, Receiver Organization, Type, Mode
+58,5000,financeA,FromWorldEnterprise,VASAI,ToRegSiteEnterprise,Debit,Real
+60,5000,financeA,FromWorldEnterprise,VIRAR,ToRegSiteEnterprise,Debit,Real
+62,4000,financeA,FromWorldEnterprise,VASAI,ToRegSiteEnterprise,Debit,Real
+64,4000,financeA,FromWorldEnterprise,VIRAR,ToRegSiteEnterprise,Debit,Real
+66,6000,financeA,FromWorldEnterprise,VASAI,ToRegSiteEnterprise,Debit,Real
+68,6000,financeA,FromWorldEnterprise,VIRAR,ToRegSiteEnterprise,Debit,Real
